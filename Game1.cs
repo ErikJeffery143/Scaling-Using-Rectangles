@@ -73,7 +73,7 @@ namespace Scaling_Using_Rectangles
             _spriteBatch.DrawString(textfont, "Neon Sunset", new Vector2(400,150), Color.White);
             //_spriteBatch.Draw(circleTexture, new Rectangle())
             //NEON SUNSET
-
+             
 
             _spriteBatch.End();
             // TODO: Add your drawing code here
